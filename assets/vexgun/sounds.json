@@ -1,0 +1,14 @@
+{
+	"shot_cartridge": {
+		"sounds": ["sutar:shot_cartridge"]
+	},
+	"shot_light": {
+		"sounds": ["sutar:shot_light"]
+	},
+	"shot_medium": {
+		"sounds": ["sutar:shot_medium"]
+	},
+	"shot_heavy": {
+		"sounds": ["sutar:shot_heavy"]
+	}
+}

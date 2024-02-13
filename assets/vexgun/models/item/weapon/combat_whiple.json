@@ -1,0 +1,7 @@
+{
+    "parent": "item/weapon/combat",
+    "textures": {
+        "0": "vexweapon:item/weapon/combat_whiple",
+        "particle": "vexweapon:item/weapon/combat_whiple"
+    }
+}
