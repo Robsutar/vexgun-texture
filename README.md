@@ -1,2 +1,2 @@
 # vexgun-texture
-Texture for Vexgun servers - Teste Robson
+Texture for Vexgun servers - Teste Lucas+BAT
