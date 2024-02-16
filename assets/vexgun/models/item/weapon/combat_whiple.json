@@ -1,5 +1,5 @@
 {
-    "parent": "item/weapon/combat",
+    "parent": "vexgun:item/weapon/combat",
     "textures": {
         "0": "vexgun:item/weapon/combat_whiple",
         "particle": "vexgun:item/weapon/combat_whiple"
