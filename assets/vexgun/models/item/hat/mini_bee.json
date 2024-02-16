@@ -5,9 +5,9 @@
 		32
 	],
 	"textures": {
-		"0": "vexgun/item/hat/mini_bee",
-		"1": "vexgun/item/hat/mini_bee_anim",
-		"particle": "vexgun/item/hat/mini_bee"
+		"0": "vexgun:item/hat/mini_bee",
+		"1": "vexgun:item/hat/mini_bee_anim",
+		"particle": "vexgun:item/hat/mini_bee"
 	},
 	"elements": [
 		{
