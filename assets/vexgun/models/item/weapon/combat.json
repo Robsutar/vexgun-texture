@@ -5,8 +5,8 @@
 		32
 	],
 	"textures": {
-		"0": "vexweapon:item/weapon/combat",
-		"particle": "vexweapon:item/weapon/combat"
+		"0": "vexgun:item/weapon/combat",
+		"particle": "vexgun:item/weapon/combat"
 	},
 	"elements": [
 		{
