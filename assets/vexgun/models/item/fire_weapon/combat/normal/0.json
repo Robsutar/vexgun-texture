@@ -5,8 +5,8 @@
 		32
 	],
 	"textures": {
-		"0": "vexgun:item/weapon/combat",
-		"particle": "vexgun:item/weapon/combat"
+		"0": "vexgun:item/fire_weapon/combat/normal",
+		"particle": "vexgun:item/fire_weapon/combat/normal"
 	},
 	"elements": [
 		{

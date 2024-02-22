@@ -1,0 +1,7 @@
+{
+    "parent": "vexgun:item/fire_weapon/combat/normal/0",
+    "textures": {
+        "0": "vexgun:item/fire_weapon/combat_whiple/normal",
+        "particle": "vexgun:item/weapon_whiple/combat/normal"
+    }
+}
