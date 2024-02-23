@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "vexgun:item/throwable/grenade",
-		"particle": "vexgun:item/throwable/grenade"
+		"0": "vexgun:item/explosive_grenade/grenade/normal",
+		"particle": "vexgun:item/explosive_grenade/grenade/normal"
 	},
 	"elements": [
 		{
