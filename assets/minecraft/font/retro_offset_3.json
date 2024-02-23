@@ -8,7 +8,7 @@
         },
         {
             "type": "bitmap",
-            "file": "fantasy:font/retro.png",
+            "file": "common:font/retro.png",
             "ascent": 7,
             "height": 7,
             "chars": [
