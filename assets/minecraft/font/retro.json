@@ -1,0 +1,20 @@
+{
+	"providers": [
+		{
+			"type": "space",
+			"advances": {
+				" ": 4
+			}
+		},
+		{
+			"type": "bitmap",
+			"file": "common:font/retro.png",
+			"ascent": 7,
+			"height": 7,
+			"chars": [
+				"ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789",
+				"\u0024\u002b\u002d\u002a\u002f\u003d\u0025\u0022\u0027\u0023\u0040\u0026\u005f\u0028\u0029\u002c\u002e\u003b\u003a\u003f\u0021\u005c\u007c\u007b\u007d\u003c\u003e\u005b\u005d\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+			]
+		}
+	]
+}
