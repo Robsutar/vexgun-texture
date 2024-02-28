@@ -8,8 +8,8 @@
         },
         {
             "type": "bitmap",
-            "file": "common:font/retro.png",
-            "ascent": -20,
+            "file": "vexgun_ui:font/retro.png",
+            "ascent": -18,
             "height": 7,
             "chars": [
                 "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789",

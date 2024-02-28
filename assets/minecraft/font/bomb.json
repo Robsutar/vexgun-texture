@@ -1,0 +1,67 @@
+{
+    "providers": [
+        {
+            "file": "minecraft:item/emerald.png",
+            "chars": [
+                "\ue000"
+            ],
+            "height": 9,
+            "ascent": -26,
+            "type": "bitmap"
+        },
+        {
+            "file": "vexgun_ui:gui/bomb/open_aim.png",
+            "chars": [
+                "\ue0A0"
+            ],
+            "height": 32,
+            "ascent": -28,
+            "type": "bitmap"
+        },
+        {
+            "file": "vexgun_ui:gui/bomb/open_aim.png",
+            "chars": [
+                "\ue0A1"
+            ],
+            "height": 32,
+            "ascent": -38,
+            "type": "bitmap"
+        },
+        {
+            "file": "vexgun_ui:gui/bomb/team_blue_player.png",
+            "chars": [
+                "\ue0B0"
+            ],
+            "height": 12,
+            "ascent": 9,
+            "type": "bitmap"
+        },
+        {
+            "file": "vexgun_ui:gui/bomb/team_orange_player.png",
+            "chars": [
+                "\ue0B1"
+            ],
+            "height": 12,
+            "ascent": 9,
+            "type": "bitmap"
+        },
+        {
+            "file": "vexgun_ui:gui/bomb/team_blue_player_dead.png",
+            "chars": [
+                "\ue0B2"
+            ],
+            "height": 12,
+            "ascent": 9,
+            "type": "bitmap"
+        },
+        {
+            "file": "vexgun_ui:gui/bomb/team_orange_player_dead.png",
+            "chars": [
+                "\ue0B3"
+            ],
+            "height": 12,
+            "ascent": 9,
+            "type": "bitmap"
+        }
+    ]
+}

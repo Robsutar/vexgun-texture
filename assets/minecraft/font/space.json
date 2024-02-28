@@ -1,0 +1,202 @@
+{
+	"providers": [
+		{
+			"file": "vexgun_ui:gui/space.png",
+			"chars": [
+				"\ueA01"
+			],
+			"height": 1,
+			"ascent": -5000,
+			"type": "bitmap"
+		},
+		{
+			"file": "vexgun_ui:gui/space.png",
+			"chars": [
+				"\ueA02"
+			],
+			"height": 2,
+			"ascent": -5000,
+			"type": "bitmap"
+		},
+		{
+			"file": "vexgun_ui:gui/space.png",
+			"chars": [
+				"\ueA03"
+			],
+			"height": 3,
+			"ascent": -5000,
+			"type": "bitmap"
+		},
+		{
+			"file": "vexgun_ui:gui/space.png",
+			"chars": [
+				"\ueA04"
+			],
+			"height": 4,
+			"ascent": -5000,
+			"type": "bitmap"
+		},
+		{
+			"file": "vexgun_ui:gui/space.png",
+			"chars": [
+				"\ueA05"
+			],
+			"height": 5,
+			"ascent": -5000,
+			"type": "bitmap"
+		},
+		{
+			"file": "vexgun_ui:gui/space.png",
+			"chars": [
+				"\ueA06"
+			],
+			"height": 6,
+			"ascent": -5000,
+			"type": "bitmap"
+		},
+		{
+			"file": "vexgun_ui:gui/space.png",
+			"chars": [
+				"\ueA07"
+			],
+			"height": 7,
+			"ascent": -5000,
+			"type": "bitmap"
+		},
+		{
+			"file": "vexgun_ui:gui/space.png",
+			"chars": [
+				"\ueA08"
+			],
+			"height": 8,
+			"ascent": -5000,
+			"type": "bitmap"
+		},
+		{
+			"file": "vexgun_ui:gui/space.png",
+			"chars": [
+				"\ueA16"
+			],
+			"height": 16,
+			"ascent": -5000,
+			"type": "bitmap"
+		},
+		{
+			"file": "vexgun_ui:gui/space.png",
+			"chars": [
+				"\ueA32"
+			],
+			"height": 32,
+			"ascent": -5000,
+			"type": "bitmap"
+		},
+		{
+			"file": "vexgun_ui:gui/space.png",
+			"chars": [
+				"\ueA64"
+			],
+			"height": 64,
+			"ascent": -5000,
+			"type": "bitmap"
+		},
+		{
+			"file": "vexgun_ui:gui/space.png",
+			"chars": [
+				"\ueB01"
+			],
+			"height": -1,
+			"ascent": -5000,
+			"type": "bitmap"
+		},
+		{
+			"file": "vexgun_ui:gui/space.png",
+			"chars": [
+				"\ueB02"
+			],
+			"height": -2,
+			"ascent": -5000,
+			"type": "bitmap"
+		},
+		{
+			"file": "vexgun_ui:gui/space.png",
+			"chars": [
+				"\ueB03"
+			],
+			"height": -3,
+			"ascent": -5000,
+			"type": "bitmap"
+		},
+		{
+			"file": "vexgun_ui:gui/space.png",
+			"chars": [
+				"\ueB04"
+			],
+			"height": -4,
+			"ascent": -5000,
+			"type": "bitmap"
+		},
+		{
+			"file": "vexgun_ui:gui/space.png",
+			"chars": [
+				"\ueB05"
+			],
+			"height": -5,
+			"ascent": -5000,
+			"type": "bitmap"
+		},
+		{
+			"file": "vexgun_ui:gui/space.png",
+			"chars": [
+				"\ueB06"
+			],
+			"height": -6,
+			"ascent": -5000,
+			"type": "bitmap"
+		},
+		{
+			"file": "vexgun_ui:gui/space.png",
+			"chars": [
+				"\ueB07"
+			],
+			"height": -7,
+			"ascent": -5000,
+			"type": "bitmap"
+		},
+		{
+			"file": "vexgun_ui:gui/space.png",
+			"chars": [
+				"\ueB08"
+			],
+			"height": -8,
+			"ascent": -5000,
+			"type": "bitmap"
+		},
+		{
+			"file": "vexgun_ui:gui/space.png",
+			"chars": [
+				"\ueB16"
+			],
+			"height": -16,
+			"ascent": -5000,
+			"type": "bitmap"
+		},
+		{
+			"file": "vexgun_ui:gui/space.png",
+			"chars": [
+				"\ueB32"
+			],
+			"height": -32,
+			"ascent": -5000,
+			"type": "bitmap"
+		},
+		{
+			"file": "vexgun_ui:gui/space.png",
+			"chars": [
+				"\ueB64"
+			],
+			"height": -64,
+			"ascent": -5000,
+			"type": "bitmap"
+		}
+	]
+}
