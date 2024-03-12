@@ -1,14 +1,14 @@
 {
 	"shot_cartridge": {
-		"sounds": ["sutar:shot_cartridge"]
+		"sounds": ["vexgun_item:shot_cartridge"]
 	},
 	"shot_light": {
-		"sounds": ["sutar:shot_light"]
+		"sounds": ["vexgun_item:shot_light"]
 	},
 	"shot_medium": {
-		"sounds": ["sutar:shot_medium"]
+		"sounds": ["vexgun_item:shot_medium"]
 	},
 	"shot_heavy": {
-		"sounds": ["sutar:shot_heavy"]
+		"sounds": ["vexgun_item:shot_heavy"]
 	}
 }

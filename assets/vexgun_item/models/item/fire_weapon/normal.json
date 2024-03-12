@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "0": "minecraft:block/barrier"
+    }
+}
