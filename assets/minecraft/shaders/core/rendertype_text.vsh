@@ -26,21 +26,21 @@ void main() {
     texCoord0 = UV0;
     // NoShadow behavior (https://github.com/PuckiSilver/NoShadow)
     ivec3 iColor = ivec3(Color.xyz * 255 + vec3(0.5));
-    if (iColor == ivec3(78, 92, 36) && (
+    if (iColor == ivec3(78, 92, 36)/* && (
         Position.z == 0.03 || // Actionbar
         Position.z == 0.06 || // Subtitle
         Position.z == 0.12 || // Title
         Position.z == 100.03 || // Chat
         Position.z == 200.03 || // Advancement Screen
         Position.z == 400.03    // Items
-        )) { // Regular text
+        )*/) { // Regular text
         vertexColor.rgb = texelFetch(Sampler2, UV2 / 16, 0).rgb; // Remove color from no shadow marker
-    } else if (iColor == ivec3(19, 23, 9) && (
+    } else if (iColor == ivec3(19, 23, 9)/* && (
         Position.z == 0 || // Actionbar | Subtitle | Title
         Position.z == 100 || // Chat
         Position.z == 200 || // Advancement Screen
         Position.z == 400    // Items
-        )) { // Shadow
+        )*/) { // Shadow
         gl_Position = vec4(2,2,2,1); // Move shadow off screen
     }
 }
