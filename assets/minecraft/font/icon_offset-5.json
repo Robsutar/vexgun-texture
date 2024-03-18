@@ -1,0 +1,13 @@
+{
+    "providers": [
+        {
+            "file": "vexgun_ui:gui/money.png",
+            "chars": [
+                "\ue001"
+            ],
+            "height": 7,
+            "ascent": -27,
+            "type": "bitmap"
+        }
+    ]
+}
