@@ -24,9 +24,21 @@ void main() {
     vertexDistance = fog_distance(ModelViewMat, IViewRotMat * Position, FogShape);
     vertexColor = Color * texelFetch(Sampler2, UV2 / 16, 0);
     texCoord0 = UV0;
-    // NoShadow behavior (https://github.com/PuckiSilver/NoShadow)
+
+    // NoShadow + TopLeft
     ivec3 iColor = ivec3(Color.xyz * 255 + vec3(0.5));
-    if (iColor == ivec3(78, 92, 36) && (
+
+    // TopLeft (#3f4a1e)
+    if (iColor == ivec3(63, 74, 30) && (
+        Position.z == 0.03
+    )){
+        vec3 pos1 = Position.xyz;
+        gl_Position = ProjMat * ModelViewMat * vec4(pos1, 1.0);
+        gl_Position.x+=1.0;
+        vertexColor.rgb = texelFetch(Sampler2, UV2 / 16, 0).rgb; // Remove color from no shadow marker
+    }
+    // NoShadow (#4e5c24)
+    else if (iColor == ivec3(78, 92, 36) && (
         Position.z == 0.03 || // Actionbar
         Position.z == 0.06 || // Subtitle
         Position.z == 0.12 || // Title
@@ -35,7 +47,9 @@ void main() {
         Position.z == 400.03    // Items
         )) { // Regular text
         vertexColor.rgb = texelFetch(Sampler2, UV2 / 16, 0).rgb; // Remove color from no shadow marker
-    } else if (iColor == ivec3(19, 23, 9) && (
+    }
+    // NoShadow + TopLeft
+    else if ((iColor == ivec3(19, 23, 9) || iColor == ivec3(15, 18, 7)) && (
         Position.z == 0 || // Actionbar | Subtitle | Title
         Position.z == 100 || // Chat
         Position.z == 200 || // Advancement Screen
