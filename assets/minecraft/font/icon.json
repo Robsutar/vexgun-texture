@@ -8,6 +8,24 @@
             "height": 7,
             "ascent": 7,
             "type": "bitmap"
+        },
+        {
+            "file": "vexgun_ui:gui/headshot.png",
+            "chars": [
+                "\ue002"
+            ],
+            "height": 7,
+            "ascent": 7,
+            "type": "bitmap"
+        },
+        {
+            "file": "vexgun_ui:gui/bomb/timer_background.png",
+            "chars": [
+                "\ue003"
+            ],
+            "height": 11,
+            "ascent": 9,
+            "type": "bitmap"
         }
     ]
 }

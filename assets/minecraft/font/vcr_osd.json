@@ -1,0 +1,14 @@
+{
+    "providers": [
+        {
+            "type": "ttf",
+            "file": "vexgun_ui:vcr_osd.ttf",
+            "shift": [
+                0,
+                0
+            ],
+            "size": 12,
+            "oversample": 25.0
+        }
+    ]
+}
