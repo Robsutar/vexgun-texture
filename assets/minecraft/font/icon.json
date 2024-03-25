@@ -26,6 +26,24 @@
             "height": 11,
             "ascent": 9,
             "type": "bitmap"
+        },
+        {
+            "file": "vexgun_ui:gui/bomb/team_atk_icon.png",
+            "chars": [
+                "\ue0A0"
+            ],
+            "height": 7,
+            "ascent": 7,
+            "type": "bitmap"
+        },
+        {
+            "file": "vexgun_ui:gui/bomb/team_def_icon.png",
+            "chars": [
+                "\ue0B0"
+            ],
+            "height": 7,
+            "ascent": 7,
+            "type": "bitmap"
         }
     ]
 }
